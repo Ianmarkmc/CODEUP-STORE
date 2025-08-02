@@ -36,11 +36,5 @@ npm run dev
 
 yarn dev
 
-The app will be available at http://localhost:5173.
 
-npm run dev
-# or
-yarn dev
-
-The app will be available at http://localhost:5173.
 The app will be available at http://localhost:5173.
