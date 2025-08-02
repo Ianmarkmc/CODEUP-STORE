@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Login from './components/Login';
-import Signup from './components/Signup';
-import Products from './components/Products';
-import About from './components/About';
-import Contact from './components/Contact';
+@import './styles/Global.css';
+@import './styles/Form.css';
+@import './styles/Page.css';
+@import './src/components/Header.css';
+@import './src/components/Footer.css';
+@import './src/components/Login.css';
+@import './src/components/Products.css';
+@import './src/components/About.css';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('about');
