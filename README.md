@@ -1,12 +1,46 @@
-# React + Vite
+CODE UP
+A modern web application for managing and exploring IT services.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview
+CODE UP is a single-page React application built with Vite. It features a user-friendly interface for browsing and filtering IT services. The app includes basic user authentication (login/signup) to demonstrate protected routes and a responsive design for optimal viewing on all devices.
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
+Frontend: React, Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Styling: CSS
 
-## Expanding the ESLint configuration
+State Management: Local Storage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Getting Started
+Installation
+Clone the repository:
+
+git clone (https://github.com/Ianmarkmc/CODEUP-STORE).git
+cd your-repository-name
+
+
+Install dependencies:
+
+npm install
+
+# or
+
+yarn install
+
+Running the Application
+To start the development server:
+
+npm run dev
+
+# or
+
+yarn dev
+
+The app will be available at http://localhost:5173.
+
+npm run dev
+# or
+yarn dev
+
+The app will be available at http://localhost:5173.
+The app will be available at http://localhost:5173.
